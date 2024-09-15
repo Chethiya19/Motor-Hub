@@ -1,0 +1,30 @@
+.admin-sidebar {
+  width: 300px; /* Adjust width as needed */
+  background-color: #1b2a49; /* Dark blue color */
+  height: 100vh; /* Full viewport height */
+  position: fixed; /* Fix the position of the sidebar */
+  top: 60px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto; /* Allows scrolling within the sidebar if necessary */
+}
+
+.nav-link {
+  padding: 15px;
+  font-size: 1.1rem;
+}
+
+.nav-link.active {
+  background-color: #495057;
+  border-left: 4px solid #0d6efd;
+}
+
+.nav-link:hover {
+  background-color: #495057;
+  text-decoration: none;
+}
+
+.nav-link i {
+  font-size: 1.2rem;
+}

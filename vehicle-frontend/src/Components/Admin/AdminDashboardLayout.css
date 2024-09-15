@@ -1,0 +1,45 @@
+.admin-dashboard {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .admin-header {
+    background-color: #343a40;
+    color: white;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .admin-body {
+    display: flex;
+    flex: 1;
+  }
+  
+  .admin-sidebar {
+    width: 200px;
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+  }
+  
+  .admin-sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .admin-sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .admin-sidebar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .admin-content {
+    flex: 1;
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  

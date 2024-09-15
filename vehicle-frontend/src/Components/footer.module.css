@@ -1,0 +1,20 @@
+/* src/components/footer.module.css */
+.footer {
+  background: linear-gradient(135deg, #405a75 0%, #4c6b8a 100%);
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.text {
+  margin: 10px 0;
+}
