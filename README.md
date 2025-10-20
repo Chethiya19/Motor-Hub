@@ -1,5 +1,6 @@
 # Motor-Hub
- Vehicle Price Prediction Website Springboot, React and Python Flask
+**Vehicle Price Prediction Website**
+Built with the **Springboot, React and Python Flask**
 
 ### Home page
 <img width="1901" height="850" alt="image" src="https://github.com/user-attachments/assets/2e34bc84-600c-46dd-896b-1101fdd50bda" />
